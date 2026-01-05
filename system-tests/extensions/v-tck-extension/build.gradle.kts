@@ -19,5 +19,6 @@ plugins {
 dependencies {
     api(libs.edc.spi.core)
     api(libs.edc.spi.participantcontext)
+    api(libs.edc.spi.participantcontext.config)
 }
 
