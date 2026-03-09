@@ -92,7 +92,7 @@ maven/mavencentral/dev.failsafe/failsafe/3.3.2, Apache-2.0, approved, #9268
 maven/mavencentral/info.picocli/picocli/4.7.7, Apache-2.0, approved, #4365
 maven/mavencentral/io.github.classgraph/classgraph/4.8.176, MIT, approved, CQ22530
 maven/mavencentral/io.github.classgraph/classgraph/4.8.184, MIT, approved, CQ22530
-maven/mavencentral/io.nats/jnats/2.25.1, , restricted, clearlydefined
+maven/mavencentral/io.nats/jnats/2.25.2, , restricted, clearlydefined
 maven/mavencentral/io.opentelemetry.instrumentation/opentelemetry-instrumentation-annotations/1.32.0, Apache-2.0, approved, #11684
 maven/mavencentral/io.opentelemetry.instrumentation/opentelemetry-instrumentation-annotations/2.25.0, Apache-2.0, approved, #26457
 maven/mavencentral/io.opentelemetry/opentelemetry-api/1.32.0, Apache-2.0, approved, #11682
@@ -183,7 +183,7 @@ maven/mavencentral/org.assertj/assertj-core/3.27.7, Apache-2.0, approved, #17980
 maven/mavencentral/org.awaitility/awaitility/4.3.0, Apache-2.0, approved, clearlydefined
 maven/mavencentral/org.bouncycastle/bcpkix-jdk18on/1.83, MIT, approved, #25011
 maven/mavencentral/org.bouncycastle/bcprov-jdk18on/1.83, MIT AND CC0-1.0, approved, #25008
-maven/mavencentral/org.bouncycastle/bcprov-lts8on/2.73.9, MIT, approved, #19041
+maven/mavencentral/org.bouncycastle/bcprov-lts8on/2.73.10, MIT, approved, #19041
 maven/mavencentral/org.bouncycastle/bcutil-jdk18on/1.83, MIT, approved, #25009
 maven/mavencentral/org.ccil.cowan.tagsoup/tagsoup/1.2.1, Apache-2.0, approved, clearlydefined
 maven/mavencentral/org.checkerframework/checker-qual/3.52.0, MIT, approved, #26057
